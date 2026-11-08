@@ -1,0 +1,22 @@
+{
+  "wheel_id": 863,
+  "structure": "umbrella",
+  "slug": "homeloanbrokerwollongong-110",
+  "project": "mortgage-broker-wollongong-fees-explained-6c97382c23fb6a3f135f4",
+  "parent_t1_ref": "homeloanbrokerwollongong-154",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokerwollongong.com.au",
+  "primary_kw": "mortgage broker wollongong fees explained",
+  "intended_url": "https://aumedia.neocities.org/mortgage-broker-wollongong-fees-explained-6c97382c23fb6a3f135f4/",
+  "tier": "T2",
+  "writeback_nonce": "4538387692732531",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/homeloanbrokerwollongong-154/",
+      "anchor": "Mortgage Broker Wollongong Eligibility: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
